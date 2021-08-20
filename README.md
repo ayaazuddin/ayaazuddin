@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Redux.
 
-- 💬 Ask me about **HTML, CSS, TS, ReactJS**
+- 💬 Ask me about **HTML, CSS, JS, TS, ReactJS**
 
 - 🥅 2021 Goals: Create interesting and useful projects and contributing in the open source community
 
