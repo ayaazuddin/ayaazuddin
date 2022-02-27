@@ -12,12 +12,9 @@
 
 - 🥅 2021 Goals: Create interesting and useful projects and contributing in the open source community
 
-- 📫 Reach me at: **ayaazuddin.mohammad@gmail.com**
-
 ### Connect with me:
 
 [<img align="left" alt="Mohammad Ayaazuddin | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/ayaazuddin-mohammad-2750311b3//)
-[<img align="left" alt="Mohammad Ayaazuddin| Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:ayaazuddin.mohammad@gmail.com)
 <br/>
 
 
