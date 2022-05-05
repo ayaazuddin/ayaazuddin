@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, TS, ReactJS**
 
-- 🥅 2021 Goals: Create interesting and useful projects and contributing in the open source community
+- 🥅 2022 Goals: Create interesting and useful projects and contributing in the open source community
 
 ### Connect with me:
 
