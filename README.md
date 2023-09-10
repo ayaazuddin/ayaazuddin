@@ -4,13 +4,11 @@
 
 
 
-- 🔭 Working on improving my problem solving skills
+- 🔭 Working on improving my problem solving skills.
 
-- 🌱 I’m currently learning Redux.
+- 🌱 I’m currently doing my Masters in Artificial Intelligence.
 
-- 💬 Ask me about **HTML, CSS, JS, TS, ReactJS**
-
-- 🥅 2022 Goals: Create interesting and useful projects and contributing in the open source community
+- 💬 Always interested in talking and discussing about **Machine Learning/ Deep Learning Research**
 
 ### Connect with me:
 
