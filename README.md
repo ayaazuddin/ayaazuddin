@@ -1,12 +1,7 @@
 <h1 align="center">Hey there! I am Ayaaz <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"/> </h1>
 <h3 align="center"></h3>
 
-
-
-
-- 🔭 Working on improving my problem solving skills.
-
-- 🌱 I’m currently doing my Masters in Artificial Intelligence.
+- 🌱 Masters in Artificial Intelligence.
 
 - 💬 Always interested in talking and discussing about **Machine Learning/ Deep Learning Research**
 
